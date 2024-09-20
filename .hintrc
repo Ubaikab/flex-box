@@ -3,6 +3,13 @@
     "development"
   ],
   "hints": {
-    "axe/language": "off"
+    "axe/language": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "button-name": "off",
+        "link-name": "off"
+      }
+    ]
   }
 }
